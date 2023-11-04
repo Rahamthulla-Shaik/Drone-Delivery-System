@@ -12,7 +12,7 @@ I conducted a comprehensive SWOT analysis to identify strengths, weaknesses, opp
 # System Workflow: 
 I have created a detailed flow chart illustrating how my proposed drone delivery system would function in the real world. This chart provides a clear visual representation of the entire process, from order placement to delivery.
 
-# Practical Implementation: 
+# Practical Implementation Drone System: 
 Using a hexagonal graphical representation, I have practically simulated the drone delivery system's potential deployment. This allows me to visualize the distribution of hubs and drones across a geographical area, ensuring efficient coverage.
 
 # Hub and Drone Requirements: 
